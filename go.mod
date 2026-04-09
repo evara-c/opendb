@@ -49,3 +49,5 @@ replace (
 
 	github.com/cometbft/cometbft-db => github.com/kava-labs/cometbft-db v0.9.1-kava.2
 )
+
+replace github.com/Kava-Labs/opendb => github.com/evara-c/opendb v0.0.0-20240719173129-a2f11f6d7e51
